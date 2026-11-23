@@ -3,14 +3,24 @@
 </h1>
 
 <p align="left">
-  <strong>💻 Programmer</strong> | <strong>🎨 UI/UX Designer</strong> | <strong>⚙️ Frontend Developer</strong><br />
-  <em>Turning ideas into delightful digital experiences, one line of code at a time.</em>
+  <strong>💻 Programmer</strong> | <strong>🎨 UI/UX Designer</strong> | <strong>⚙️ Frontend Developer</strong> | <strong>🎮 Aspiring Game Developer</strong><br />
+  <em>Merging art and logic, one line of code and one polygon at a time.</em>
 </p>
 
 ---
 
-### 🛠️ My Skillset
+### 🌱 About Me
 
+I'm currently learning **3D modeling** and **game development programming**. I'm fascinated by the point where **art meets logic**: building worlds that look good and also work well under the hood.
+
+- 🔭 Currently focusing on **Next.js**, **Blender**, and **Unity**
+- 🎨 Learning to create 3D models and bring them to life in games
+- 🧠 Exploring how creative design and programming logic can work together
+- ⚙️ Still building real-world frontend projects with React and Tailwind CSS
+
+---
+
+### 🛠️ My Skillset
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Advance-FFDD00?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6)
@@ -20,6 +30,12 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Advance-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
 ![Git](https://img.shields.io/badge/Git-Advance-F05032?style=for-the-badge&logo=git&logoColor=F05032)
 
+### 🎮 Currently Learning
+
+![Blender](https://img.shields.io/badge/Blender-Learning-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-Learning-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Learning-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-Deepening-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
 
 ---
 
